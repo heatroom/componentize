@@ -1,6 +1,6 @@
 {
   "name": "componentize",
-  "version": "0.17.7",
+  "version": "0.17.8",
   "description": "component package manager only build local dependencies.",
   "keywords": [
     "component",
