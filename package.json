@@ -14,17 +14,10 @@
   "dependencies": {
     "commander": "1.0.5",
     "mkdirp": "0.3.4",
-    "superagent": "0.15.3",
     "component-builder": "0.9.2",
     "string-to-js": "0.0.1",
     "win-fork": "1.0.0",
     "debug": "*"
-  },
-  "devDependencies": {
-    "express": "3.0.0",
-    "minstache": "0.0.1",
-    "mocha": "*",
-    "should": "*"
   },
   "bin": {
     "componentize": "bin/componentize",
