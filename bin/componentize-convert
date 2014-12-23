@@ -23,7 +23,7 @@ program.on('--help', function(){
   console.log('  Examples:');
   console.log();
   console.log('    # convert template.html to js');
-  console.log('    $ component convert template.html');
+  console.log('    $ componentize convert template.html');
   console.log();
 });
 

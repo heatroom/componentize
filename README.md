@@ -4,4 +4,4 @@
 
   With [node](http://nodejs.org) previously installed:
 
-     $ npm install -g componentify
+     $ npm install -g componentize

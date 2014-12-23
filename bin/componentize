@@ -49,7 +49,7 @@ if (!cmd) program.help();
 
 // executable
 
-var bin = 'component-' + cmd;
+var bin = 'componentize-' + cmd;
 
 // local or resolve to absolute executable path
 

@@ -1,7 +1,0 @@
-{
-  "name": "bar",
-  "scripts": ["index.js"],
-  "dependencies": {
-    "baz": "*"
-  }
-}

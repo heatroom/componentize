@@ -33,16 +33,16 @@ program.on('--help', function(){
   console.log('  Examples:');
   console.log();
   console.log('    # build to ./build');
-  console.log('    $ component build');
+  console.log('    $ componentize build');
   console.log();
   console.log('    # build to ./dist as assets.js, assets.css');
-  console.log('    $ component build -o dist -n assets');
+  console.log('    $ componentize build -o dist -n assets');
   console.log();
   console.log('    # build standalone as window.$');
-  console.log('    $ component build --standalone $');
+  console.log('    $ componentize build --standalone $');
   console.log();
   console.log('    # build with plugins');
-  console.log('    $ component build -u foo,bar,baz');
+  console.log('    $ componentize build -u foo,bar,baz');
   console.log();
 });
 
