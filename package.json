@@ -1,7 +1,7 @@
 {
   "name": "componentize",
-  "version": "0.17.6",
-  "description": "Component package manager consuming git repositories",
+  "version": "0.17.7",
+  "description": "component package manager only build local dependencies.",
   "keywords": [
     "component",
     "package",
